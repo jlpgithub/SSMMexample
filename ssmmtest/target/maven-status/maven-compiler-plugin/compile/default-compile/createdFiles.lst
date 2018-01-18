@@ -1,0 +1,5 @@
+cf\service\UserService.class
+cf\service\UserServiceImpl.class
+cf\controller\UserController.class
+cf\model\User.class
+cf\dao\UserMapper.class
